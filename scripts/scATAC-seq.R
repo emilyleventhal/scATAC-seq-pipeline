@@ -1,4 +1,3 @@
-setwd("~/Desktop/-/School/scottlab")
 install.packages('Seurat')
 devtools::install_github("satijalab/seurat-data")
 install.packages('SeuratData')
